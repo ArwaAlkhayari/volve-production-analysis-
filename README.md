@@ -78,7 +78,7 @@ Positive improvement means the model beat the baseline. "7 days" means 7 produci
 ## How to run
 
 1. Download the Volve production data (Equinor Volve data village, or a copy on Kaggle).
-2. Open `volve_production_forecasting.ipynb` in Jupyter, Kaggle or Colab.
+2. Open `volve_production_forecast.ipynb` in Jupyter, Kaggle or Colab.
 3. Update the file path in the first cell, then run all cells.
 
 Requires Python 3, pandas, numpy, matplotlib and scikit-learn.
